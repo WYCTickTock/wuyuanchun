@@ -9,6 +9,8 @@ public class MainFrame extends JFrame {
     JButton j1;
     JButton j2;
     JButton j3;
+    JButton j4;
+    JButton j5;
 
 
 
